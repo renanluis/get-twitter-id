@@ -8,7 +8,9 @@ A small script with Selenium to get a Twitter user's ID.
 pip install selenium
 ```
 
-E.g: py main.py elonmusk
+## Usage
+
+### py main.py elonmusk
 ```
 Twitter User's ID: 44196397
 ```
