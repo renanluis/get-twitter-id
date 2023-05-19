@@ -10,7 +10,7 @@ pip install selenium
 
 ## Usage
 
-### py main.py elonmusk
 ```
-Twitter User's ID: 44196397
+> py main.py elonmusk
+> Twitter User's ID: 44196397
 ```
